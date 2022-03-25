@@ -1,5 +1,5 @@
 .boton-clear{
-    height:80px;
+    height:60px;
     font-size: 1.6em;
     display: flex;
     flex: 1;
@@ -12,6 +12,7 @@
     border:2px solid white;
     cursor:pointer;
     border-radius:20px;
+    user-select:none;
 }
 
 .boton-clear:hover{
